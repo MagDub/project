@@ -41,13 +41,6 @@ I quote:
 ```
 
 **'comand + option + i' for the chunk to open**
-```{python}
-
-import numpy as np
-sample = np.random.uniform(2)
-print('this is python', sample)
-```
-
 
 For this dataset the Bank of England asked `r prettyNum(nrow(inflation), big.mark = ".", decimal.mark = ",")` people for their opinion on the perceived and expected inflation.
 The survey has run quarterly since `r min(inflation$year)`.
