@@ -2,7 +2,7 @@
 title: "Inflation Data"
 author: "Magda Dubois"
 date: "`r Sys.Date()`"
-output: html_document # pdf_document
+output: pdf_document # pdf_document
 repro:
   packages:
     - here
